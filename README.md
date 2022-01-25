@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pr3stin
+- 👋 Hi, I’m Prestin Lau
 - 👀 I’m interested in software developement
 - 🌱 I’m currently learning frontend/ backend web development
 - 💞️ I’m looking to collaborate on anything that will strengthen my knowledge of software development
