@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Prestin Lau
-- 👀 I’m interested in software developement
-- 🌱 I’m currently learning frontend/ backend web development
+- 👀 I’m interested in iOS Development
+- 🌱 I’m currently learning Swift and Objective-C
 - 💞️ I’m looking to collaborate on anything that will strengthen my knowledge of software development
 - 📫 How to reach me: lauprestin@gmail.com
 
