@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Prestin Lau
-- 📱 I’m an iOS Developer
-- 🌱 I have experience in UIKit, SwiftUI, Core Data, Firebase and REST API's 
+- 📱 I’m a Software Engineer
+- 🌱 I have experience in Swift, Java, Javascript, and Python 
 - 💞️ I’m looking to collaborate on anything that will strengthen my knowledge of software development
 - 📫 How to reach me: lauprestin@gmail.com
 
